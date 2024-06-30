@@ -12,11 +12,11 @@ namespace PrimeiroProjeto
 
             if (numero == 0)
             {
-                Console.WriteLine("Não negativo");
+                Console.WriteLine("ZERO");
             }
             else if (numero > 0)
             {
-                Console.WriteLine("Não negativo");
+                Console.WriteLine("POSITIVO");
             }
             else
             {
