@@ -1,4 +1,4 @@
-Ordem para implementação de membros de classe
+Ordem para implementação de membros de classe:
 
 - Atributos Privados
 - Propriedades autoimplementadas
